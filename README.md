@@ -1,31 +1,46 @@
-for freelance work? do reach, [email](mailto:abhishknads.work@gmail.com) :)
+<!-- غيّر العنوان باسمك أو باسم مشروعك -->
+# مرحباً، أنا {{جمال}} 👋
 
-📊 **this week i spent my time on:**
-<!--START_SECTION:waka-->
+> لو محتاج شغل حر (Freelance) تواصل معايا على الإيميل:
+- 📧 **Email:** gamalwalid832@gmail.com
+- 💼 **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gamal-waled-bb11b8348/)
 
-```txt
-TypeScript   10 hrs 5 mins   █████████████████████▓░░░   86.72 %
-JSON         45 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.45 %
-Other        24 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.47 %
-CSS          11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.58 %
-JavaScript   6 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.98 %
-```
+---
 
-<!--END_SECTION:waka-->
+## 📊 الأسبوع ده قضيت وقتي في:
+- تعلم **HTML & CSS**.
+- تمرين بسيط على **JavaScript**.
+- شغل على مشروع صغير (صفحة هبوط).
 
-if you like what i do, maybe consider buying me a coffee/tea 🥺👉👈
+> ملاحظة: هنا اكتب نقاط بسيطة بإيدك، من غير أي أدوات أوتوماتيك.
 
-<a href="https://www.buymeacoffee.com/abhisheknaiidu" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
+---
 
-🚧 **my todoist stats:**
-<!-- TODO-IST:START -->
-🏆  8,004 Karma Points           
-🌸  Completed 0 tasks today           
-✅  Completed 673 tasks so far           
-⏳  Longest streak is 10 days
-<!-- TODO-IST:END -->
+---
+
+## ✅ إنجازاتي البسيطة
+- 🏆 نقاط التحفيز: 10 (زودهم بنفسك كل ما تخلص مهمة)
+- 🌸 المهام اللي خلصتها النهارده: 10
+- 🔁 أطول سلسلة إنجاز: 5 أيام
 
 
-📈 my github stats
+---
 
-<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=abhisheknaiidu&show_icons=true&theme=gotham" alt="abhisheknaiidu" />
+---
+
+## 🎯 أهدافي القريبة
+- بناء صفحة شخصية بسيطة بـ **HTML/CSS**.
+- فهم أساسيات **Git & GitHub** (init, add, commit, push).
+- تطبيق مشروع صغير ونشره على GitHub Pages.
+
+---
+
+## 🧰 الأدوات اللي بستخدمها
+- المحرر: VS Code
+- المتصفح: Chrome/Firefox
+- التحكم في الإصدارات: Git
+
+---
+
+## تواصل
+لو عندك اقتراحات أو محتاج مساعدة بسيطة، ابعت Issue أو رسالة 🙌
