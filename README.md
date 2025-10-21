@@ -1,46 +1,23 @@
-<!-- غيّر العنوان باسمك أو باسم مشروعك -->
-# مرحباً، أنا {{جمال}} 👋
+👋 Hey there, I'm Gamal Walid
 
-> لو محتاج شغل حر (Freelance) تواصل معايا على الإيميل:
-- 📧 **Email:** gamalwalid832@gmail.com
-- 💼 **LinkedIn:** [https://www.linkedin.com/in/your-profile](https://www.linkedin.com/in/gamal-waled-bb11b8348/)
+I'm a passionate Frontend Developer who loves building smooth, modern, and creative web applications 🚀
+Always exploring new technologies, designing cool interfaces, and turning ideas into reality 💡
 
----
+💻 Tech Stack & Tools
 
-## 📊 الأسبوع ده قضيت وقتي في:
-- تعلم **HTML & CSS**.
-- تمرين بسيط على **JavaScript**.
-- شغل على مشروع صغير (صفحة هبوط).
+🚀 Frontend: React.js • Next.js • Tailwind CSS
+🛠️ Backend: Node.js • Express.js • MongoDB
+🎨 Design & Tools: Figma • Git • GitHub • VS Code • Postman • Vercel
 
+⚡ What I’m currently doing
 
+Building cool projects using Next.js + Tailwind
 
----
+Diving deeper into MERN Stack
 
----
+Growing my GitHub portfolio & sharing ideas
 
-## ✅ إنجازاتي البسيطة
-- 🏆 نقاط التحفيز: 10 (زودهم بنفسك كل ما تخلص مهمة)
-- 🌸 المهام اللي خلصتها النهارده: 10
-- 🔁 أطول سلسلة إنجاز: 5 أيام
-
-
----
-
----
-
-## 🎯 أهدافي القريبة
-- بناء صفحة شخصية بسيطة بـ **HTML/CSS**.
-- فهم أساسيات **Git & GitHub** (init, add, commit, push).
-- تطبيق مشروع صغير ونشره على GitHub Pages.
-
----
-
-## 🧰 الأدوات اللي بستخدمها
-- المحرر: VS Code
-- المتصفح: Chrome/Firefox
-- التحكم في الإصدارات: Git
-
----
-
-## تواصل
-لو عندك اقتراحات أو محتاج مساعدة بسيطة، ابعت Issue أو رسالة 🙌
+📊 GitHub Stats
+<p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=gamalwalid&show_icons=true&theme=radical" alt="Gamal's GitHub stats" width="48%"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=gamalwalid&theme=radical" width="48%"> </p>
+🌐 Connect with me
+<p align="left"> <a href="https://github.com/gamalwalid" target="_blank"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"></a> <a href="https://www.linkedin.com/in/gamal-walid-" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white"></a> <a href="mailto:gamalwalid832@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"></a> </p>
